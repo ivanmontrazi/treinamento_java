@@ -17,6 +17,8 @@ public class Program {
 		Locale.setDefault(Locale.US);
 
 		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Treinamento GIT");
 
 		List<Employee> list = new ArrayList<>();
 
